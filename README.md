@@ -1,6 +1,6 @@
 # 🧠 ResumeIQ
 
-AI Resume Analyzer & Job-Match Coach — final project for **AASD 4013 Agile Methodologies**, Group 4.
+AI Resume Analyzer & Job-Match Coach — final project for **AASD 4013 Agile Methodologies**, Group 3.
 
 Upload a PDF resume, paste a job description, and get a match score, missing skills, and AI-generated improvement suggestions.
 
@@ -50,14 +50,13 @@ resumeiq/
 - 📊 **Match scoring** with visual breakdown
 - 💡 **AI-generated suggestions** to improve resume fit
 
-## 👥 Team — Group 4
+## 👥 Team — Group 3
 
 | Member | Role |
 |--------|------|
-| Member A | Scrum Master |
-| Member B | Product Owner |
-| Member C | Developer — Backend Lead |
-| Member D | Developer — Frontend & Demo Lead |
+| Atash Kakabayev | Scrum Master |
+| Nitesh Talukdar | Product Owner |
+| Kazim Ali | Developer |
 
 ## 📅 Sprints
 

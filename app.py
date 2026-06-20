@@ -1,5 +1,5 @@
 """ResumeIQ - AI Resume Analyzer & Job-Match Coach
-AASD 4013 Agile Methodologies - Group 4
+AASD 4013 Agile Methodologies - Group 3
 """
 import streamlit as st
 import pdfplumber
@@ -15,7 +15,7 @@ st.set_page_config(
 
 # ----------------- Header -----------------
 st.title("🧠 ResumeIQ")
-st.caption("AI Resume Analyzer & Job-Match Coach · Built by Group 4 · AASD 4013")
+st.caption("AI Resume Analyzer & Job-Match Coach · Built by Group 3 · AASD 4013")
 st.divider()
 
 # ----------------- Inputs (two columns) -----------------
